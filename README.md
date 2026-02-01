@@ -58,3 +58,7 @@ python main.py
 *   **Adaptive Logic:** Green light holds for a minimum of 5 seconds, then switches if the opposing lane has a longer queue.
 
 
+
+https://github.com/user-attachments/assets/c07a4604-23f2-414a-b565-ab9918186450
+
+
